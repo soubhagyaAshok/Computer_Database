@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-24T12:59:29 IST" name="Default suite" finished-at="2023-01-24T12:59:52 IST" duration-ms="23682">
+    <groups>
+    </groups>
+    <test started-at="2023-01-24T12:59:29 IST" name="Default test" finished-at="2023-01-24T12:59:52 IST" duration-ms="23682">
+      <class name="computerDatabase.TC_04_ComputerDatabase">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:computerDatabase.TC_04_ComputerDatabase@543295b0]" started-at="2023-01-24T12:59:29 IST" name="launchApp" finished-at="2023-01-24T12:59:35 IST" duration-ms="6051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="navigatetoComputerDatabse()[pri:0, instance:computerDatabase.TC_04_ComputerDatabase@543295b0]" started-at="2023-01-24T12:59:35 IST" name="navigatetoComputerDatabse" finished-at="2023-01-24T12:59:37 IST" duration-ms="2039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetoComputerDatabse -->
+        <test-method signature="verifyAddaNewComputer()[pri:0, instance:computerDatabase.TC_04_ComputerDatabase@543295b0]" started-at="2023-01-24T12:59:37 IST" name="verifyAddaNewComputer" finished-at="2023-01-24T12:59:47 IST" duration-ms="10342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddaNewComputer -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:computerDatabase.TC_04_ComputerDatabase@543295b0]" started-at="2023-01-24T12:59:47 IST" name="closeApp" finished-at="2023-01-24T12:59:52 IST" duration-ms="5156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- computerDatabase.TC_04_ComputerDatabase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
